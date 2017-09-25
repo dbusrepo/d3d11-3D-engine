@@ -1,0 +1,10 @@
+mkdir "$(SolutionDir)..\lib\"
+
+copy "$(TargetPath)" "$(SolutionDir)..\lib\"
+
+rmdir "$(SolutionDir)..\content\"
+
+
+mkdir "$(SolutionDir)..\content\"
+
+IF EXIST "$(ProjectDir)Content" xcopy /E /Y "$(ProjectDir)Content" "$(SolutionDir)..\content\"

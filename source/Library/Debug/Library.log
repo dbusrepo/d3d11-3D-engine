@@ -1,0 +1,3 @@
+﻿G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\source\Library\Content\Shaders\ColorPS.hlsl(8,35-45): error X4502: invalid vs_2_0 output semantic 'SV_TARGET'
+  
+  compilation failed; no code produced

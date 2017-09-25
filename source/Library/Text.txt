@@ -1,0 +1,45 @@
+// Validate Parameters
+	if (!strFileName) return false;
+
+	// File loading may throw an exception
+	try
+	{
+
+		// Allocate our spatial partitioning tree of the required type
+		m_pSpatialTree = new BSPTree(mApp->Direct3DDevice(), strFileName);
+		//m_pAlphaTree = new CBSPNodeTree(m_pD3DDevice, m_bHardwareTnL);
+
+		// load data from file
+		FILE *file;
+
+		if ((file = fopen(strFileName, "rb")) == 0) {
+			printf("Can't open %s input file...\n", strFileName);
+			//printf("Exiting...\n");
+			//system("PAUSE");
+			//exit(EXIT_FAILURE);
+			throw 0;
+		}
+
+		// Read TEXTURES
+		//loadTextures(file);
+
+		// Read world polygons
+		//loadMeshes(file);
+
+		// load bsp data
+		if (!m_pSpatialTree->Load(file)) return false;
+
+		// Build the spatial tree and notify the collision engine
+		if (!m_pSpatialTree->Build()) return false;
+
+	}
+
+	// Catch any exceptions
+	catch (...)
+	{
+		return false;
+
+	} // End Catch Block
+
+	  // Success!
+	return true;

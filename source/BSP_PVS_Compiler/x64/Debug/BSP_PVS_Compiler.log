@@ -1,0 +1,91 @@
+﻿  CVector.cpp
+  CPlane.cpp
+  CMatrix.cpp
+  CBounds.cpp
+  WAD3.cpp
+  ParserStructures.cpp
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\map parser source\parserstructures.cpp(111): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\map parser source\parserstructures.cpp(292): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\map parser source\parserstructures.cpp(306): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  ParserMapFile.cpp
+  ProcessTJR.cpp
+  ProcessPVS.cpp
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\cbsptree.h(183): warning C4267: 'return': conversion from 'size_t' to 'unsigned long', possible loss of data
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\cbsptree.h(184): warning C4267: 'return': conversion from 'size_t' to 'unsigned long', possible loss of data
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\cbsptree.h(185): warning C4267: 'return': conversion from 'size_t' to 'unsigned long', possible loss of data
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\cbsptree.h(186): warning C4267: 'return': conversion from 'size_t' to 'unsigned long', possible loss of data
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\cbsptree.h(187): warning C4267: 'return': conversion from 'size_t' to 'unsigned long', possible loss of data
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\processpvs.cpp(1097): warning C4244: 'return': conversion from '__int64' to 'ULONG', possible loss of data
+  ProcessPRT.cpp
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\cbsptree.h(183): warning C4267: 'return': conversion from 'size_t' to 'unsigned long', possible loss of data
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\cbsptree.h(184): warning C4267: 'return': conversion from 'size_t' to 'unsigned long', possible loss of data
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\cbsptree.h(185): warning C4267: 'return': conversion from 'size_t' to 'unsigned long', possible loss of data
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\cbsptree.h(186): warning C4267: 'return': conversion from 'size_t' to 'unsigned long', possible loss of data
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\cbsptree.h(187): warning C4267: 'return': conversion from 'size_t' to 'unsigned long', possible loss of data
+  ProcessHSR.cpp
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\cbsptree.h(183): warning C4267: 'return': conversion from 'size_t' to 'unsigned long', possible loss of data
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\cbsptree.h(184): warning C4267: 'return': conversion from 'size_t' to 'unsigned long', possible loss of data
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\cbsptree.h(185): warning C4267: 'return': conversion from 'size_t' to 'unsigned long', possible loss of data
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\cbsptree.h(186): warning C4267: 'return': conversion from 'size_t' to 'unsigned long', possible loss of data
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\cbsptree.h(187): warning C4267: 'return': conversion from 'size_t' to 'unsigned long', possible loss of data
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\processhsr.cpp(98): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+  ProcessESR.cpp
+  CompilerTypes.cpp
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\cbsptree.h(183): warning C4267: 'return': conversion from 'size_t' to 'unsigned long', possible loss of data
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\cbsptree.h(184): warning C4267: 'return': conversion from 'size_t' to 'unsigned long', possible loss of data
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\cbsptree.h(185): warning C4267: 'return': conversion from 'size_t' to 'unsigned long', possible loss of data
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\cbsptree.h(186): warning C4267: 'return': conversion from 'size_t' to 'unsigned long', possible loss of data
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\cbsptree.h(187): warning C4267: 'return': conversion from 'size_t' to 'unsigned long', possible loss of data
+  CLevelFile.cpp
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\cbsptree.h(183): warning C4267: 'return': conversion from 'size_t' to 'unsigned long', possible loss of data
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\cbsptree.h(184): warning C4267: 'return': conversion from 'size_t' to 'unsigned long', possible loss of data
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\cbsptree.h(185): warning C4267: 'return': conversion from 'size_t' to 'unsigned long', possible loss of data
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\cbsptree.h(186): warning C4267: 'return': conversion from 'size_t' to 'unsigned long', possible loss of data
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\cbsptree.h(187): warning C4267: 'return': conversion from 'size_t' to 'unsigned long', possible loss of data
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\clevelfile.cpp(38): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\clevelfile.cpp(206): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\clevelfile.cpp(207): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  CCompiler.cpp
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\cbsptree.h(183): warning C4267: 'return': conversion from 'size_t' to 'unsigned long', possible loss of data
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\cbsptree.h(184): warning C4267: 'return': conversion from 'size_t' to 'unsigned long', possible loss of data
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\cbsptree.h(185): warning C4267: 'return': conversion from 'size_t' to 'unsigned long', possible loss of data
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\cbsptree.h(186): warning C4267: 'return': conversion from 'size_t' to 'unsigned long', possible loss of data
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\cbsptree.h(187): warning C4267: 'return': conversion from 'size_t' to 'unsigned long', possible loss of data
+  CBSPTree.cpp
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\cbsptree.h(183): warning C4267: 'return': conversion from 'size_t' to 'unsigned long', possible loss of data
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\cbsptree.h(184): warning C4267: 'return': conversion from 'size_t' to 'unsigned long', possible loss of data
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\cbsptree.h(185): warning C4267: 'return': conversion from 'size_t' to 'unsigned long', possible loss of data
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\cbsptree.h(186): warning C4267: 'return': conversion from 'size_t' to 'unsigned long', possible loss of data
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\compiler source\cbsptree.h(187): warning C4267: 'return': conversion from 'size_t' to 'unsigned long', possible loss of data
+  Main.cpp
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\application source\main.cpp(37): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: see declaration of 'freopen'
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\application source\main.cpp(63): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\application source\main.cpp(98): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  LogOutput.cpp
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\application source\logoutput.cpp(119): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\application source\logoutput.cpp(241): warning C4267: 'initializing': conversion from 'size_t' to 'ULONG', possible loss of data
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\application source\logoutput.cpp(242): warning C4267: '+=': conversion from 'size_t' to 'ULONG', possible loss of data
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\application source\logoutput.cpp(232): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\application source\logoutput.cpp(237): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\application source\logoutput.cpp(238): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\application source\logoutput.cpp(253): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\htcvive\google drive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\bsp_pvs_compiler\application source\logoutput.cpp(261): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+  Generating Code...
+  BSP_PVS_Compiler.vcxproj -> C:\Users\htcVive\Google Drive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\build\x64\Debug\BSP_PVS_Compiler.exe
+  BSP_PVS_Compiler.vcxproj -> C:\Users\htcVive\Google Drive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\build\x64\Debug\BSP_PVS_Compiler.pdb (Full PDB)
+  A subdirectory or file C:\Users\htcVive\Google Drive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\build\..\content\ already exists.
+  C:\Users\htcVive\Google Drive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\source\BSP_PVS_Compiler\Content\Bsp\test.bsp
+  C:\Users\htcVive\Google Drive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\source\BSP_PVS_Compiler\Content\Map\test.map
+  2 File(s) copied

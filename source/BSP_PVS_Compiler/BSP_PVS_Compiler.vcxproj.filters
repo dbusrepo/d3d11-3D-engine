@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Support">
+      <UniqueIdentifier>{2cc05ae8-2895-49c8-9b3c-c1db4f78d5bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Support">
+      <UniqueIdentifier>{e6c41fdb-8967-4415-90cb-b584c63e3a4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Compiler">
+      <UniqueIdentifier>{297f9b78-1874-4907-afed-99de27580b33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Compiler">
+      <UniqueIdentifier>{745fd03f-4b5d-41f8-ae8b-6b15c2f7c19d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Application">
+      <UniqueIdentifier>{f6cb8023-84c7-43d2-98d8-09bae7d5b926}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Application">
+      <UniqueIdentifier>{9bc65aa0-1587-47a2-b440-ba8e5d2167cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\MapParser">
+      <UniqueIdentifier>{256fa148-10db-448f-8dfe-8124cd7d7cad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\MapParser">
+      <UniqueIdentifier>{09c9dc2b-ac72-47a2-902f-88624ba225c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\LightMapper">
+      <UniqueIdentifier>{a1212825-a8d4-4714-9257-4dfaf0919929}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\LightMapper">
+      <UniqueIdentifier>{8575e7e4-0fb9-4088-b85f-2fe1562be929}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Support Source\AppError.h">
+      <Filter>Header Files\Support</Filter>
+    </ClInclude>
+    <ClInclude Include="Support Source\CBounds.h">
+      <Filter>Header Files\Support</Filter>
+    </ClInclude>
+    <ClInclude Include="Support Source\CMatrix.h">
+      <Filter>Header Files\Support</Filter>
+    </ClInclude>
+    <ClInclude Include="Support Source\Common.h">
+      <Filter>Header Files\Support</Filter>
+    </ClInclude>
+    <ClInclude Include="Support Source\CPlane.h">
+      <Filter>Header Files\Support</Filter>
+    </ClInclude>
+    <ClInclude Include="Support Source\CVector.h">
+      <Filter>Header Files\Support</Filter>
+    </ClInclude>
+    <ClInclude Include="Compiler Source\CBSPTree.h">
+      <Filter>Header Files\Compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="Compiler Source\CCompiler.h">
+      <Filter>Header Files\Compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="Compiler Source\CompilerTypes.h">
+      <Filter>Header Files\Compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="Compiler Source\ProcessHSR.h">
+      <Filter>Header Files\Compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="Compiler Source\ProcessPRT.h">
+      <Filter>Header Files\Compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="Compiler Source\ProcessPVS.h">
+      <Filter>Header Files\Compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="Compiler Source\ProcessTJR.h">
+      <Filter>Header Files\Compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="Application Source\Main.h">
+      <Filter>Header Files\Application</Filter>
+    </ClInclude>
+    <ClInclude Include="Application Source\LogOutput.h">
+      <Filter>Header Files\Application</Filter>
+    </ClInclude>
+    <ClInclude Include="Map Parser Source\ParserMath.h">
+      <Filter>Header Files\MapParser</Filter>
+    </ClInclude>
+    <ClInclude Include="Map Parser Source\ParserStructures.h">
+      <Filter>Header Files\MapParser</Filter>
+    </ClInclude>
+    <ClInclude Include="Compiler Source\CLevelFile.h">
+      <Filter>Header Files\Compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="Map Parser Source\ParserMapFile.h">
+      <Filter>Header Files\MapParser</Filter>
+    </ClInclude>
+    <ClInclude Include="Map Parser Source\WAD3.h">
+      <Filter>Header Files\MapParser</Filter>
+    </ClInclude>
+    <ClInclude Include="LightMapper Source\Array.h">
+      <Filter>Header Files\LightMapper</Filter>
+    </ClInclude>
+    <ClInclude Include="LightMapper Source\BSP.h">
+      <Filter>Header Files\LightMapper</Filter>
+    </ClInclude>
+    <ClInclude Include="LightMapper Source\MyMath.h">
+      <Filter>Header Files\LightMapper</Filter>
+    </ClInclude>
+    <ClInclude Include="LightMapper Source\Platform.h">
+      <Filter>Header Files\LightMapper</Filter>
+    </ClInclude>
+    <ClInclude Include="LightMapper Source\TexturePacker.h">
+      <Filter>Header Files\LightMapper</Filter>
+    </ClInclude>
+    <ClInclude Include="LightMapper Source\Vector.h">
+      <Filter>Header Files\LightMapper</Filter>
+    </ClInclude>
+    <ClInclude Include="LightMapper Source\Imaging\Image.h">
+      <Filter>Header Files\LightMapper</Filter>
+    </ClInclude>
+    <ClInclude Include="LightMapper Source\Imaging\jconfig.h">
+      <Filter>Header Files\LightMapper</Filter>
+    </ClInclude>
+    <ClInclude Include="LightMapper Source\Imaging\jmorecfg.h">
+      <Filter>Header Files\LightMapper</Filter>
+    </ClInclude>
+    <ClInclude Include="LightMapper Source\Imaging\jpeglib.h">
+      <Filter>Header Files\LightMapper</Filter>
+    </ClInclude>
+    <ClInclude Include="LightMapper Source\Imaging\png.h">
+      <Filter>Header Files\LightMapper</Filter>
+    </ClInclude>
+    <ClInclude Include="LightMapper Source\Imaging\pngconf.h">
+      <Filter>Header Files\LightMapper</Filter>
+    </ClInclude>
+    <ClInclude Include="LightMapper Source\Imaging\zconf.h">
+      <Filter>Header Files\LightMapper</Filter>
+    </ClInclude>
+    <ClInclude Include="LightMapper Source\Imaging\zlib.h">
+      <Filter>Header Files\LightMapper</Filter>
+    </ClInclude>
+    <ClInclude Include="Support Source\CCollision.h">
+      <Filter>Header Files\Support</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Support Source\CBounds.cpp">
+      <Filter>Source Files\Support</Filter>
+    </ClCompile>
+    <ClCompile Include="Support Source\CMatrix.cpp">
+      <Filter>Source Files\Support</Filter>
+    </ClCompile>
+    <ClCompile Include="Support Source\CPlane.cpp">
+      <Filter>Source Files\Support</Filter>
+    </ClCompile>
+    <ClCompile Include="Support Source\CVector.cpp">
+      <Filter>Source Files\Support</Filter>
+    </ClCompile>
+    <ClCompile Include="Compiler Source\CBSPTree.cpp">
+      <Filter>Source Files\Compiler</Filter>
+    </ClCompile>
+    <ClCompile Include="Compiler Source\CCompiler.cpp">
+      <Filter>Source Files\Compiler</Filter>
+    </ClCompile>
+    <ClCompile Include="Compiler Source\CompilerTypes.cpp">
+      <Filter>Source Files\Compiler</Filter>
+    </ClCompile>
+    <ClCompile Include="Compiler Source\ProcessESR.cpp">
+      <Filter>Source Files\Compiler</Filter>
+    </ClCompile>
+    <ClCompile Include="Compiler Source\ProcessHSR.cpp">
+      <Filter>Source Files\Compiler</Filter>
+    </ClCompile>
+    <ClCompile Include="Compiler Source\ProcessPRT.cpp">
+      <Filter>Source Files\Compiler</Filter>
+    </ClCompile>
+    <ClCompile Include="Compiler Source\ProcessPVS.cpp">
+      <Filter>Source Files\Compiler</Filter>
+    </ClCompile>
+    <ClCompile Include="Compiler Source\ProcessTJR.cpp">
+      <Filter>Source Files\Compiler</Filter>
+    </ClCompile>
+    <ClCompile Include="Application Source\Main.cpp">
+      <Filter>Source Files\Application</Filter>
+    </ClCompile>
+    <ClCompile Include="Application Source\LogOutput.cpp">
+      <Filter>Source Files\Application</Filter>
+    </ClCompile>
+    <ClCompile Include="Map Parser Source\ParserStructures.cpp">
+      <Filter>Source Files\MapParser</Filter>
+    </ClCompile>
+    <ClCompile Include="Map Parser Source\WAD3.cpp">
+      <Filter>Source Files\MapParser</Filter>
+    </ClCompile>
+    <ClCompile Include="Map Parser Source\ParserMapFile.cpp">
+      <Filter>Source Files\MapParser</Filter>
+    </ClCompile>
+    <ClCompile Include="Compiler Source\CLevelFile.cpp">
+      <Filter>Source Files\Compiler</Filter>
+    </ClCompile>
+    <ClCompile Include="LightMapper Source\BSP.cpp">
+      <Filter>Source Files\LightMapper</Filter>
+    </ClCompile>
+    <ClCompile Include="LightMapper Source\Platform.cpp">
+      <Filter>Source Files\LightMapper</Filter>
+    </ClCompile>
+    <ClCompile Include="LightMapper Source\TexturePacker.cpp">
+      <Filter>Source Files\LightMapper</Filter>
+    </ClCompile>
+    <ClCompile Include="LightMapper Source\Vector.cpp">
+      <Filter>Source Files\LightMapper</Filter>
+    </ClCompile>
+    <ClCompile Include="LightMapper Source\Imaging\Image.cpp">
+      <Filter>Source Files\LightMapper</Filter>
+    </ClCompile>
+    <ClCompile Include="Support Source\CCollision.cpp">
+      <Filter>Source Files\Support</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="compilerCopyOld.txt">
+      <Filter>Header Files\Compiler</Filter>
+    </Text>
+    <Text Include="textOldCodeLightmapsGen.txt">
+      <Filter>Source Files\Compiler</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

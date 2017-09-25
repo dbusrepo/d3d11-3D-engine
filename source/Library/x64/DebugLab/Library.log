@@ -1,0 +1,27 @@
+﻿  compilation object save succeeded; see G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\build\x64\DebugLab\Content\Shaders\ColorPS.cso
+  compilation object save succeeded; see G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\build\x64\DebugLab\Content\Shaders\ColorVS.cso
+  compilation object save succeeded; see G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\build\x64\DebugLab\Content\Shaders\FixedColorPS.cso
+  compilation object save succeeded; see G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\build\x64\DebugLab\Content\Shaders\FixedColorVS.cso
+  compilation object save succeeded; see G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\build\x64\DebugLab\Content\Shaders\SceneBasicPS.cso
+  compilation object save succeeded; see G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\build\x64\DebugLab\Content\Shaders\SceneBasicVS.cso
+  compilation object save succeeded; see G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\build\x64\DebugLab\Content\Shaders\SkyboxPS.cso
+  compilation object save succeeded; see G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\build\x64\DebugLab\Content\Shaders\SkyboxVS.cso
+  compilation object save succeeded; see G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\build\x64\DebugLab\Content\Shaders\TexturePS.cso
+  compilation object save succeeded; see G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\build\x64\DebugLab\Content\Shaders\TextureVS.cso
+  VectorHelper.cpp
+  Utility.cpp
+  TriangleComponent.cpp
+  MathHelper.cpp
+  Timer.cpp
+  TextureShader.cpp
+  TextureItem.cpp
+  SkyboxShader.cpp
+  SkyboxMaterial.cpp
+  SkyboxComponent.cpp
+  ServiceContainer.cpp
+  SceneShader.cpp
+  SceneMaterial.cpp
+  Scene.cpp
+g:\documenti\googledrive\d3dgraphicsprogramming\d3d11projects\d3dengine\source\library\scene.cpp(212): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  RenderStateHelper.cpp

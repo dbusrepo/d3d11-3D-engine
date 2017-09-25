@@ -1,0 +1,31 @@
+﻿  compilation object save succeeded; see G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\build\x64\Debug\Content\Shaders\BasicPS.cso
+  compilation object save succeeded; see G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\build\x64\Debug\Content\Shaders\BasicVS.cso
+  compilation object save succeeded; see G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\build\x64\Debug\Content\Shaders\DoorNoLightPS.cso
+  compilation object save succeeded; see G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\build\x64\Debug\Content\Shaders\DoorNoLightVS.cso
+  compilation object save succeeded; see G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\build\x64\Debug\Content\Shaders\SceneLightPS.cso
+  compilation object save succeeded; see G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\build\x64\Debug\Content\Shaders\SceneLightVS.cso
+  compilation object save succeeded; see G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\build\x64\Debug\Content\Shaders\SceneNoLightPS.cso
+  compilation object save succeeded; see G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\build\x64\Debug\Content\Shaders\SceneNoLightVS.cso
+  compilation object save succeeded; see G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\build\x64\Debug\Content\Shaders\SkyboxPS.cso
+  compilation object save succeeded; see G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\build\x64\Debug\Content\Shaders\SkyboxVS.cso
+  Library.vcxproj -> G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\build\x64\Debug\Libraryd.lib
+  A subdirectory or file G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\build\..\lib\ already exists.
+          1 file(s) copied.
+  G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\source\Library\Content\Fonts\Arial_11_Regular.spritefont
+  G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\source\Library\Content\Fonts\Arial_14_Regular.spritefont
+  G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\source\Library\Content\Shaders\BasicPS.hlsl
+  G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\source\Library\Content\Shaders\BasicVS.hlsl
+  G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\source\Library\Content\Shaders\DoorNoLightPS.hlsl
+  G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\source\Library\Content\Shaders\DoorNoLightVS.hlsl
+  G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\source\Library\Content\Shaders\SceneLightPS.hlsl
+  G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\source\Library\Content\Shaders\SceneLightVS.hlsl
+  G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\source\Library\Content\Shaders\SceneNoLightPS.hlsl
+  G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\source\Library\Content\Shaders\SceneNoLightVS.hlsl
+  G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\source\Library\Content\Shaders\SkyboxPS.hlsl
+  G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\source\Library\Content\Shaders\SkyboxVS.hlsl
+  G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\source\Library\Content\Textures\Checkerboard.png
+  G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\source\Library\Content\Textures\dev_crate_wall2.dds
+  G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\source\Library\Content\Textures\dev_crate_wall2.jpg
+  G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\source\Library\Content\Textures\Maskonaive2_1024.dds
+  G:\Documenti\GoogleDrive\D3DGraphicsProgramming\D3D11Projects\D3DEngine\source\Library\Content\Textures\snowcube1024.dds
+  17 File(s) copied
